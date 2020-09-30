@@ -14,8 +14,6 @@ So far I made:
 
 - a script to pull down offer from Mobidea
 
-- a few tools for propellerAds: autoblocker, ? , ?. [currently work in progress]
-
 Thanks for checking it out!
 
 Best,
